@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+if (!Yii::\$app->request->isAjax) {
+    ${1:}
+}
+
+]]></content>
+    <tabTrigger>rna</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii2 - Yii::$app->request->isAjax</description>
+</snippet>
