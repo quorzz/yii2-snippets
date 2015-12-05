@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @author    quorzz <quorzz@gmail.cn>
+ * @filename  $TM_FILENAME
+ * @created   ${1:}
+ */
+
+${2:}
+]]></content>
+    <tabTrigger>ha</tabTrigger>
+    <scope>source.php</scope>
+    <description>annotation</description>
+</snippet>

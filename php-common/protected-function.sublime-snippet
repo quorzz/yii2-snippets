@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-protected function ${1:FuncName}()
+protected function ${1:FuncName}(\$${2:param1}, \$${3:param2})
 {
-    
+    ${4:}
 }
 ]]></content>
     <tabTrigger>ptf</tabTrigger>

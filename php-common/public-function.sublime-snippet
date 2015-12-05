@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[
-public function ${1:FuncName}()
+public function ${1:FuncName}(\$${2:param1}, \$${3:param2})
 {
-    
+    ${4:}
 }
+
 ]]></content>
     <tabTrigger>puf</tabTrigger>
     <scope>source.php</scope>
