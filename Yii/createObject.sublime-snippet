@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Yii::createObject('${1:type}')
+]]></content>
+    <tabTrigger>ycb</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii2 - Yii::createObject()</description>
+</snippet>
