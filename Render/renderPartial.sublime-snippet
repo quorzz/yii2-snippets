@@ -5,7 +5,7 @@ return \$this->renderPartial('${1:filename}', [
     $3
 ]);
 ]]></content>
-	<tabTrigger>RDp</tabTrigger>
+	<tabTrigger>trdp</tabTrigger>
 	<scope>source.php</scope>
 	<description>Yii2 - renderPartial</description>
 </snippet>

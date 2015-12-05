@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Yii::getAlias('${1:alias}')
 ]]></content>
-	<tabTrigger>Yga</tabTrigger>
+	<tabTrigger>yga</tabTrigger>
 	<scope>source.php</scope>
 	<description>Yii2 - Yii::getAlias()</description>
 </snippet>
