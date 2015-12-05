@@ -2,7 +2,7 @@
 	<content><![CDATA[
 ArrayHelper::getValue(${1:\$array}, '${2:key}'${3:, ${4:\$default = null}})
 ]]></content>
-	<tabTrigger>AHgv</tabTrigger>
+	<tabTrigger>agv</tabTrigger>
 	<scope>source.php</scope>
 	<description>Yii2 - ArrayHelper::getValue()</description>
 </snippet>
