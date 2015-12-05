@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Yii::\$app->request->userIP
 ]]></content>
-	<tabTrigger>Ruip</tabTrigger>
+	<tabTrigger>rip</tabTrigger>
 	<scope>source.php</scope>
 	<description>Yii2 - Yii::$app->request->userIP</description>
 </snippet>

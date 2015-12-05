@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Yii::\$app->request->isAjax
 ]]></content>
-	<tabTrigger>Ria</tabTrigger>
+	<tabTrigger>ria</tabTrigger>
 	<scope>source.php</scope>
 	<description>Yii2 - Yii::$app->request->isAjax</description>
 </snippet>
