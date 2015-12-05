@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+public function ${1:FuncName}()
+{
+    
+}
+]]></content>
+    <tabTrigger>puf</tabTrigger>
+    <scope>source.php</scope>
+    <description>public function </description>
+</snippet>
