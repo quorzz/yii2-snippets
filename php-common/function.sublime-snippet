@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+function(${1:\$param1}${2:, \$${3:param2}}){
+    ${4:}
+}
+]]></content>
+    <tabTrigger>func</tabTrigger>
+    <scope>source.php</scope>
+    <description>function($param1, $param2){  }</description>
+</snippet>
