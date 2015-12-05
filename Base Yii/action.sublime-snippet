@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Yii::\$app->controller->action->$1
 ]]></content>
-	<tabTrigger>Ya</tabTrigger>
+	<tabTrigger>ya</tabTrigger>
 	<scope>source.php</scope>
 	<description>Yii2 - Yii::\$app->controller->action</description>
 </snippet>
