@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+\$response = Yii::\$app->response;
+\$response->format = \$response::FORMAT_JSON;
+]]></content>
+    <tabTrigger>rfj</tabTrigger>
+    <scope>source.php</scope>
+    <description>Yii2 - Yii::$app->request->get</description>
+</snippet>
