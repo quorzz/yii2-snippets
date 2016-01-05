@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[
-private function ${1:FuncName}(\$${2:param1}, \$${3:param2})
+private function ${1:FuncName}(\$${2:param1}${4:, \$${3:param2}})
 {
-    ${4:}
+    ${5:}
 }
+
 ]]></content>
     <tabTrigger>prf</tabTrigger>
     <scope>source.php</scope>
